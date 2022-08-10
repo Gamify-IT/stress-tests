@@ -1,0 +1,2 @@
+# JMeter generated Cookie file
+${hostname}	TRUE	/	FALSE	0	token	eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJleHAiOjE2NjI3MjMzMjMsImlkIjoiY2w2bHhycTJnMDAwNDYwbzB6czlkbXk2diIsInVzZXIiOiJ0ZXN0In0.pLw_MibTISBaCsWqVYPQyjIvpeAog-W0T8fHkmRfRiA
