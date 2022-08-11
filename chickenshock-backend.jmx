@@ -228,7 +228,7 @@
             <stringProp name="HTTPSampler.port">${port}</stringProp>
             <stringProp name="HTTPSampler.protocol"></stringProp>
             <stringProp name="HTTPSampler.contentEncoding"></stringProp>
-            <stringProp name="HTTPSampler.path">/minigames/chickenshock/api/v1/configurations//questions</stringProp>
+            <stringProp name="HTTPSampler.path">minigames/chickenshock/api/v1/configurations/f0d9bdea-46cc-478d-9b52-e07dcad95bf3/questions</stringProp>
             <stringProp name="HTTPSampler.method">GET</stringProp>
             <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
             <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
