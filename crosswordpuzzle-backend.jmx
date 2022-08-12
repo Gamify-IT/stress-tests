@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jmeterTestPlan version="1.2" properties="5.0" jmeter="5.5">
+<jmeterTestPlan version="1.2" properties="5.0" jmeter="5.4.3">
   <hashTree>
-    <TestPlan guiclass="TestPlanGui" testclass="TestPlan" testname="overworld-backend" enabled="true">
+    <TestPlan guiclass="TestPlanGui" testclass="TestPlan" testname="crosswordpuzzle-backend" enabled="true">
       <stringProp name="TestPlan.comments"></stringProp>
       <boolProp name="TestPlan.functional_mode">false</boolProp>
       <boolProp name="TestPlan.tearDown_on_shutdown">true</boolProp>
@@ -178,7 +178,7 @@
             <UniformRandomTimer guiclass="UniformRandomTimerGui" testclass="UniformRandomTimer" testname="Pause" enabled="true">
               <stringProp name="ConstantTimer.delay">3000</stringProp>
               <stringProp name="RandomTimer.range">3000</stringProp>
-              <stringProp name="TestPlan.comments">Users typically need some amount of time to choose a product</stringProp>
+              <stringProp name="TestPlan.comments">Reading takes time</stringProp>
             </UniformRandomTimer>
             <hashTree/>
           </hashTree>

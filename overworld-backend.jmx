@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jmeterTestPlan version="1.2" properties="5.0" jmeter="5.5">
+<jmeterTestPlan version="1.2" properties="5.0" jmeter="5.4.3">
   <hashTree>
     <TestPlan guiclass="TestPlanGui" testclass="TestPlan" testname="overworld-backend" enabled="true">
       <stringProp name="TestPlan.comments"></stringProp>
@@ -311,7 +311,7 @@
             <UniformRandomTimer guiclass="UniformRandomTimerGui" testclass="UniformRandomTimer" testname="Pause" enabled="true">
               <stringProp name="ConstantTimer.delay">3000</stringProp>
               <stringProp name="RandomTimer.range">3000</stringProp>
-              <stringProp name="TestPlan.comments">Users typically need some amount of time to choose a product</stringProp>
+              <stringProp name="TestPlan.comments">Users need some time to walk from one world to another</stringProp>
             </UniformRandomTimer>
             <hashTree/>
           </hashTree>
@@ -400,7 +400,7 @@
             <UniformRandomTimer guiclass="UniformRandomTimerGui" testclass="UniformRandomTimer" testname="Pause" enabled="true">
               <stringProp name="ConstantTimer.delay">3000</stringProp>
               <stringProp name="RandomTimer.range">3000</stringProp>
-              <stringProp name="TestPlan.comments">Users typically need some amount of time to choose a product</stringProp>
+              <stringProp name="TestPlan.comments">Users need some time to walk from one world to another</stringProp>
             </UniformRandomTimer>
             <hashTree/>
           </hashTree>
@@ -489,7 +489,7 @@
             <UniformRandomTimer guiclass="UniformRandomTimerGui" testclass="UniformRandomTimer" testname="Pause" enabled="true">
               <stringProp name="ConstantTimer.delay">3000</stringProp>
               <stringProp name="RandomTimer.range">3000</stringProp>
-              <stringProp name="TestPlan.comments">Users typically need some amount of time to choose a product</stringProp>
+              <stringProp name="TestPlan.comments">Users need some time to walk from one world to another</stringProp>
             </UniformRandomTimer>
             <hashTree/>
           </hashTree>
